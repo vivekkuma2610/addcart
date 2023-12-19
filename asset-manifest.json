@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/addcart/static/css/main.d2acb773.css",
+    "main.js": "/addcart/static/js/main.6767dd04.js",
+    "static/js/787.361ddea3.chunk.js": "/addcart/static/js/787.361ddea3.chunk.js",
+    "static/media/logo.svg": "/addcart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/addcart/index.html",
+    "main.d2acb773.css.map": "/addcart/static/css/main.d2acb773.css.map",
+    "main.6767dd04.js.map": "/addcart/static/js/main.6767dd04.js.map",
+    "787.361ddea3.chunk.js.map": "/addcart/static/js/787.361ddea3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2acb773.css",
+    "static/js/main.6767dd04.js"
+  ]
+}
