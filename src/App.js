@@ -8,7 +8,7 @@ import { useState } from 'react';
 const data=[{
   id:1,
   product_image:"1.png",
-  product_name:"Joker & Witch Nebula Women's Watch",
+  product_name:"Fire-Boltt ultimate smartwatch",
   actual_price:"835",
   price:"760"
 },
@@ -22,7 +22,7 @@ price:"750"
 {
 id:3,
 product_image:"3.png",
-product_name:"Fossil Analog Rose Gold Dial Women's Watch-BQ3181",
+product_name:"OMEGA Diver 300M Co‑Axial Master Chronometer Chronograph 44 mm",
 actual_price:"7197",
 price:"7122"
 },
@@ -50,7 +50,7 @@ price:"283"
 {
 id:7,
 product_image:"7.png",
-product_name:"TIMEX Analog Women's Watch",
+product_name:"OMEGAPlanet Ocean 600M Co‑Axial Master Chronometer Chronograph 45.5 mm",
 actual_price:"2264",
 price:"2189"
 },
